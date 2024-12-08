@@ -1,2 +1,4 @@
 # Epic_Arcade
-A gamified webpage.
+This is my gamified webpage.
+<br>
+Author:- Prayash & Amar
